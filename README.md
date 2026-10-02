@@ -6,7 +6,7 @@ Savoir créer un lien cliquable permettant d'accéder à une page ou un autre si
 Les notions à connaitre : 
 
 a permet de créer un lien
-href indique l'adresse de destination du lien
+ href indique l'adresse de destination du lien
 
 Un exemple de code :  <a href="https://www.google.com">Aller sur Google</a>
 
